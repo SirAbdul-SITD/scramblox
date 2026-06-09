@@ -1,0 +1,4131 @@
+{
+  "version": "1.0",
+  "words": 3150,
+  "categories": 21,
+  "levels": [
+    {
+      "cat": "Animals",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Animals. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Animals",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Animals. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Animals",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Animals. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Animals",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Animals. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Animals",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Animals. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Animals",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Animals. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Animals",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Animals. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Animals",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Animals. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Animals",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Animals. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Animals",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Animals. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Food",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Food. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Food",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Food. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Food",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Food. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Food",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Food. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Food",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Food. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Food",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Food. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Food",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Food. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Food",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Food. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Food",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Food. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Food",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Food. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Sports",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Sports. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Sports",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Sports. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Sports",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Sports. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Sports",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Sports. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Sports",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Sports. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Sports",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Sports. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Sports",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Sports. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Sports",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Sports. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Sports",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Sports. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Sports",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Sports. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Science",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Science. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Science",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Science. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Science",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Science. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Science",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Science. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Science",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Science. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Science",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Science. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Science",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Science. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Science",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Science. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Science",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Science. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Science",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Science. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Countries",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Countries. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Countries",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Countries. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Countries",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Countries. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Countries",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Countries. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Countries",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Countries. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Countries",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Countries. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Countries",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Countries. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Countries",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Countries. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Countries",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Countries. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Countries",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Countries. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Nature",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Nature. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Nature",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Nature. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Nature",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Nature. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Nature",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Nature. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Nature",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Nature. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Nature",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Nature. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Nature",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Nature. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Nature",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Nature. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Nature",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Nature. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Nature",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Nature. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Technology",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Technology. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Technology",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Technology. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Technology",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Technology. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Technology",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Technology. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Technology",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Technology. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Technology",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Technology. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Technology",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Technology. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Technology",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Technology. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Technology",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Technology. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Technology",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Technology. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Emotions",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Emotions. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Emotions",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Emotions. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Emotions",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Emotions. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Emotions",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Emotions. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Emotions",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Emotions. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Emotions",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Emotions. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Emotions",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Emotions. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Emotions",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Emotions. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Emotions",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Emotions. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Emotions",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Emotions. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Music",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Music. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Music",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Music. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Music",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Music. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Music",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Music. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Music",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Music. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Music",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Music. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Music",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Music. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Music",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Music. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Music",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Music. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Music",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Music. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Travel",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Travel. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Travel",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Travel. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Travel",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Travel. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Travel",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Travel. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Travel",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Travel. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Travel",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Travel. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Travel",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Travel. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Travel",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Travel. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Travel",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Travel. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Travel",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Travel. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Movies",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Movies. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Movies",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Movies. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Movies",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Movies. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Movies",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Movies. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Movies",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Movies. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Movies",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Movies. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Movies",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Movies. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Movies",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Movies. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Movies",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Movies. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Movies",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Movies. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Mythology",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Mythology. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Mythology",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Mythology. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Mythology",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Mythology. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Mythology",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Mythology. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Mythology",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Mythology. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Mythology",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Mythology. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Mythology",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Mythology. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Mythology",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Mythology. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Mythology",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Mythology. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Mythology",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Mythology. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Space",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Space. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Space",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Space. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Space",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Space. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Space",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Space. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Space",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Space. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Space",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Space. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Space",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Space. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Space",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Space. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Space",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Space. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Space",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Space. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "History",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of History. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "History",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of History. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "History",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of History. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "History",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of History. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "History",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of History. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "History",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of History. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "History",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of History. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "History",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of History. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "History",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of History. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "History",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of History. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Cooking",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Cooking. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Cooking",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Cooking. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Cooking",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Cooking. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Cooking",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Cooking. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Cooking",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Cooking. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Cooking",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Cooking. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Cooking",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Cooking. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Cooking",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Cooking. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Cooking",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Cooking. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Cooking",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Cooking. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Fashion",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Fashion. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Fashion",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Fashion. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Fashion",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Fashion. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Fashion",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Fashion. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Fashion",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Fashion. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Fashion",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Fashion. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Fashion",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Fashion. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Fashion",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Fashion. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Fashion",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Fashion. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Fashion",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Fashion. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Art",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Art. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Art",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Art. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Art",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Art. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Art",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Art. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Art",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Art. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Art",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Art. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Art",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Art. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Art",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Art. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Art",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Art. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Art",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Art. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Body",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Body. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Body",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Body. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Body",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Body. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Body",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Body. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Body",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Body. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Body",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Body. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Body",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Body. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Body",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Body. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Body",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Body. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Body",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Body. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Weather",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Weather. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Weather",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Weather. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Weather",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Weather. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Weather",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Weather. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Weather",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Weather. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Weather",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Weather. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Weather",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Weather. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Weather",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Weather. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Weather",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Weather. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Weather",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Weather. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Sports Equipment. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Sports Equipment. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Sports Equipment. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Sports Equipment. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Sports Equipment. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Sports Equipment. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Sports Equipment. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Sports Equipment. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Sports Equipment. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Sports Equipment",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Sports Equipment. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    },
+    {
+      "cat": "Professions",
+      "level": 1,
+      "words": 15,
+      "min_len": 3,
+      "max_len": 7,
+      "hint": "Level 1 of Professions. Words are 3\u20137 letters long.",
+      "reward_coins": 5,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.1
+    },
+    {
+      "cat": "Professions",
+      "level": 2,
+      "words": 15,
+      "min_len": 4,
+      "max_len": 8,
+      "hint": "Level 2 of Professions. Words are 4\u20138 letters long.",
+      "reward_coins": 10,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.2
+    },
+    {
+      "cat": "Professions",
+      "level": 3,
+      "words": 15,
+      "min_len": 5,
+      "max_len": 9,
+      "hint": "Level 3 of Professions. Words are 5\u20139 letters long.",
+      "reward_coins": 15,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.3
+    },
+    {
+      "cat": "Professions",
+      "level": 4,
+      "words": 15,
+      "min_len": 6,
+      "max_len": 10,
+      "hint": "Level 4 of Professions. Words are 6\u201310 letters long.",
+      "reward_coins": 20,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.4
+    },
+    {
+      "cat": "Professions",
+      "level": 5,
+      "words": 15,
+      "min_len": 7,
+      "max_len": 11,
+      "hint": "Level 5 of Professions. Words are 7\u201311 letters long.",
+      "reward_coins": 25,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.5
+    },
+    {
+      "cat": "Professions",
+      "level": 6,
+      "words": 15,
+      "min_len": 8,
+      "max_len": 12,
+      "hint": "Level 6 of Professions. Words are 8\u201312 letters long.",
+      "reward_coins": 30,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.6
+    },
+    {
+      "cat": "Professions",
+      "level": 7,
+      "words": 15,
+      "min_len": 9,
+      "max_len": 13,
+      "hint": "Level 7 of Professions. Words are 9\u201313 letters long.",
+      "reward_coins": 35,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.7
+    },
+    {
+      "cat": "Professions",
+      "level": 8,
+      "words": 15,
+      "min_len": 10,
+      "max_len": 14,
+      "hint": "Level 8 of Professions. Words are 10\u201314 letters long.",
+      "reward_coins": 40,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.8
+    },
+    {
+      "cat": "Professions",
+      "level": 9,
+      "words": 15,
+      "min_len": 11,
+      "max_len": 15,
+      "hint": "Level 9 of Professions. Words are 11\u201315 letters long.",
+      "reward_coins": 45,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 0.9
+    },
+    {
+      "cat": "Professions",
+      "level": 10,
+      "words": 15,
+      "min_len": 12,
+      "max_len": 16,
+      "hint": "Level 10 of Professions. Words are 12\u201316 letters long.",
+      "reward_coins": 50,
+      "reward_stars": 3,
+      "time_limit": 60,
+      "difficulty": 1.0
+    }
+  ],
+  "achievements": [
+    {
+      "id": "ach_001",
+      "name": "Achievement 1",
+      "points": 25,
+      "desc": "Solve 5 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_002",
+      "name": "Achievement 2",
+      "points": 50,
+      "desc": "Solve 10 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_003",
+      "name": "Achievement 3",
+      "points": 75,
+      "desc": "Solve 15 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_004",
+      "name": "Achievement 4",
+      "points": 100,
+      "desc": "Solve 20 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_005",
+      "name": "Achievement 5",
+      "points": 125,
+      "desc": "Solve 25 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_006",
+      "name": "Achievement 6",
+      "points": 150,
+      "desc": "Solve 30 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_007",
+      "name": "Achievement 7",
+      "points": 175,
+      "desc": "Solve 35 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_008",
+      "name": "Achievement 8",
+      "points": 200,
+      "desc": "Solve 40 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_009",
+      "name": "Achievement 9",
+      "points": 225,
+      "desc": "Solve 45 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_010",
+      "name": "Achievement 10",
+      "points": 250,
+      "desc": "Solve 50 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_011",
+      "name": "Achievement 11",
+      "points": 275,
+      "desc": "Solve 55 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_012",
+      "name": "Achievement 12",
+      "points": 300,
+      "desc": "Solve 60 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_013",
+      "name": "Achievement 13",
+      "points": 325,
+      "desc": "Solve 65 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_014",
+      "name": "Achievement 14",
+      "points": 350,
+      "desc": "Solve 70 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_015",
+      "name": "Achievement 15",
+      "points": 375,
+      "desc": "Solve 75 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_016",
+      "name": "Achievement 16",
+      "points": 400,
+      "desc": "Solve 80 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_017",
+      "name": "Achievement 17",
+      "points": 425,
+      "desc": "Solve 85 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_018",
+      "name": "Achievement 18",
+      "points": 450,
+      "desc": "Solve 90 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_019",
+      "name": "Achievement 19",
+      "points": 475,
+      "desc": "Solve 95 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_020",
+      "name": "Achievement 20",
+      "points": 500,
+      "desc": "Solve 100 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_021",
+      "name": "Achievement 21",
+      "points": 525,
+      "desc": "Solve 105 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_022",
+      "name": "Achievement 22",
+      "points": 550,
+      "desc": "Solve 110 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_023",
+      "name": "Achievement 23",
+      "points": 575,
+      "desc": "Solve 115 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_024",
+      "name": "Achievement 24",
+      "points": 600,
+      "desc": "Solve 120 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_025",
+      "name": "Achievement 25",
+      "points": 625,
+      "desc": "Solve 125 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_026",
+      "name": "Achievement 26",
+      "points": 650,
+      "desc": "Solve 130 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_027",
+      "name": "Achievement 27",
+      "points": 675,
+      "desc": "Solve 135 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_028",
+      "name": "Achievement 28",
+      "points": 700,
+      "desc": "Solve 140 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_029",
+      "name": "Achievement 29",
+      "points": 725,
+      "desc": "Solve 145 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_030",
+      "name": "Achievement 30",
+      "points": 750,
+      "desc": "Solve 150 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_031",
+      "name": "Achievement 31",
+      "points": 775,
+      "desc": "Solve 155 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_032",
+      "name": "Achievement 32",
+      "points": 800,
+      "desc": "Solve 160 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_033",
+      "name": "Achievement 33",
+      "points": 825,
+      "desc": "Solve 165 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_034",
+      "name": "Achievement 34",
+      "points": 850,
+      "desc": "Solve 170 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_035",
+      "name": "Achievement 35",
+      "points": 875,
+      "desc": "Solve 175 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_036",
+      "name": "Achievement 36",
+      "points": 900,
+      "desc": "Solve 180 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_037",
+      "name": "Achievement 37",
+      "points": 925,
+      "desc": "Solve 185 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_038",
+      "name": "Achievement 38",
+      "points": 950,
+      "desc": "Solve 190 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_039",
+      "name": "Achievement 39",
+      "points": 975,
+      "desc": "Solve 195 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_040",
+      "name": "Achievement 40",
+      "points": 1000,
+      "desc": "Solve 200 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_041",
+      "name": "Achievement 41",
+      "points": 1025,
+      "desc": "Solve 205 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_042",
+      "name": "Achievement 42",
+      "points": 1050,
+      "desc": "Solve 210 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_043",
+      "name": "Achievement 43",
+      "points": 1075,
+      "desc": "Solve 215 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_044",
+      "name": "Achievement 44",
+      "points": 1100,
+      "desc": "Solve 220 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_045",
+      "name": "Achievement 45",
+      "points": 1125,
+      "desc": "Solve 225 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_046",
+      "name": "Achievement 46",
+      "points": 1150,
+      "desc": "Solve 230 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_047",
+      "name": "Achievement 47",
+      "points": 1175,
+      "desc": "Solve 235 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_048",
+      "name": "Achievement 48",
+      "points": 1200,
+      "desc": "Solve 240 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_049",
+      "name": "Achievement 49",
+      "points": 1225,
+      "desc": "Solve 245 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_050",
+      "name": "Achievement 50",
+      "points": 1250,
+      "desc": "Solve 250 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_051",
+      "name": "Achievement 51",
+      "points": 1275,
+      "desc": "Solve 255 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_052",
+      "name": "Achievement 52",
+      "points": 1300,
+      "desc": "Solve 260 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_053",
+      "name": "Achievement 53",
+      "points": 1325,
+      "desc": "Solve 265 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_054",
+      "name": "Achievement 54",
+      "points": 1350,
+      "desc": "Solve 270 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_055",
+      "name": "Achievement 55",
+      "points": 1375,
+      "desc": "Solve 275 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_056",
+      "name": "Achievement 56",
+      "points": 1400,
+      "desc": "Solve 280 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_057",
+      "name": "Achievement 57",
+      "points": 1425,
+      "desc": "Solve 285 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_058",
+      "name": "Achievement 58",
+      "points": 1450,
+      "desc": "Solve 290 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_059",
+      "name": "Achievement 59",
+      "points": 1475,
+      "desc": "Solve 295 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_060",
+      "name": "Achievement 60",
+      "points": 1500,
+      "desc": "Solve 300 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_061",
+      "name": "Achievement 61",
+      "points": 1525,
+      "desc": "Solve 305 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_062",
+      "name": "Achievement 62",
+      "points": 1550,
+      "desc": "Solve 310 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_063",
+      "name": "Achievement 63",
+      "points": 1575,
+      "desc": "Solve 315 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_064",
+      "name": "Achievement 64",
+      "points": 1600,
+      "desc": "Solve 320 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_065",
+      "name": "Achievement 65",
+      "points": 1625,
+      "desc": "Solve 325 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_066",
+      "name": "Achievement 66",
+      "points": 1650,
+      "desc": "Solve 330 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_067",
+      "name": "Achievement 67",
+      "points": 1675,
+      "desc": "Solve 335 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_068",
+      "name": "Achievement 68",
+      "points": 1700,
+      "desc": "Solve 340 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_069",
+      "name": "Achievement 69",
+      "points": 1725,
+      "desc": "Solve 345 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_070",
+      "name": "Achievement 70",
+      "points": 1750,
+      "desc": "Solve 350 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_071",
+      "name": "Achievement 71",
+      "points": 1775,
+      "desc": "Solve 355 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_072",
+      "name": "Achievement 72",
+      "points": 1800,
+      "desc": "Solve 360 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_073",
+      "name": "Achievement 73",
+      "points": 1825,
+      "desc": "Solve 365 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_074",
+      "name": "Achievement 74",
+      "points": 1850,
+      "desc": "Solve 370 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_075",
+      "name": "Achievement 75",
+      "points": 1875,
+      "desc": "Solve 375 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_076",
+      "name": "Achievement 76",
+      "points": 1900,
+      "desc": "Solve 380 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_077",
+      "name": "Achievement 77",
+      "points": 1925,
+      "desc": "Solve 385 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_078",
+      "name": "Achievement 78",
+      "points": 1950,
+      "desc": "Solve 390 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_079",
+      "name": "Achievement 79",
+      "points": 1975,
+      "desc": "Solve 395 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_080",
+      "name": "Achievement 80",
+      "points": 2000,
+      "desc": "Solve 400 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_081",
+      "name": "Achievement 81",
+      "points": 2025,
+      "desc": "Solve 405 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_082",
+      "name": "Achievement 82",
+      "points": 2050,
+      "desc": "Solve 410 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_083",
+      "name": "Achievement 83",
+      "points": 2075,
+      "desc": "Solve 415 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_084",
+      "name": "Achievement 84",
+      "points": 2100,
+      "desc": "Solve 420 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_085",
+      "name": "Achievement 85",
+      "points": 2125,
+      "desc": "Solve 425 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_086",
+      "name": "Achievement 86",
+      "points": 2150,
+      "desc": "Solve 430 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_087",
+      "name": "Achievement 87",
+      "points": 2175,
+      "desc": "Solve 435 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_088",
+      "name": "Achievement 88",
+      "points": 2200,
+      "desc": "Solve 440 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_089",
+      "name": "Achievement 89",
+      "points": 2225,
+      "desc": "Solve 445 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_090",
+      "name": "Achievement 90",
+      "points": 2250,
+      "desc": "Solve 450 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_091",
+      "name": "Achievement 91",
+      "points": 2275,
+      "desc": "Solve 455 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_092",
+      "name": "Achievement 92",
+      "points": 2300,
+      "desc": "Solve 460 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_093",
+      "name": "Achievement 93",
+      "points": 2325,
+      "desc": "Solve 465 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_094",
+      "name": "Achievement 94",
+      "points": 2350,
+      "desc": "Solve 470 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_095",
+      "name": "Achievement 95",
+      "points": 2375,
+      "desc": "Solve 475 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_096",
+      "name": "Achievement 96",
+      "points": 2400,
+      "desc": "Solve 480 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_097",
+      "name": "Achievement 97",
+      "points": 2425,
+      "desc": "Solve 485 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_098",
+      "name": "Achievement 98",
+      "points": 2450,
+      "desc": "Solve 490 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_099",
+      "name": "Achievement 99",
+      "points": 2475,
+      "desc": "Solve 495 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_100",
+      "name": "Achievement 100",
+      "points": 2500,
+      "desc": "Solve 500 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_101",
+      "name": "Achievement 101",
+      "points": 2525,
+      "desc": "Solve 505 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_102",
+      "name": "Achievement 102",
+      "points": 2550,
+      "desc": "Solve 510 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_103",
+      "name": "Achievement 103",
+      "points": 2575,
+      "desc": "Solve 515 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_104",
+      "name": "Achievement 104",
+      "points": 2600,
+      "desc": "Solve 520 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_105",
+      "name": "Achievement 105",
+      "points": 2625,
+      "desc": "Solve 525 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_106",
+      "name": "Achievement 106",
+      "points": 2650,
+      "desc": "Solve 530 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_107",
+      "name": "Achievement 107",
+      "points": 2675,
+      "desc": "Solve 535 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_108",
+      "name": "Achievement 108",
+      "points": 2700,
+      "desc": "Solve 540 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_109",
+      "name": "Achievement 109",
+      "points": 2725,
+      "desc": "Solve 545 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_110",
+      "name": "Achievement 110",
+      "points": 2750,
+      "desc": "Solve 550 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_111",
+      "name": "Achievement 111",
+      "points": 2775,
+      "desc": "Solve 555 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_112",
+      "name": "Achievement 112",
+      "points": 2800,
+      "desc": "Solve 560 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_113",
+      "name": "Achievement 113",
+      "points": 2825,
+      "desc": "Solve 565 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_114",
+      "name": "Achievement 114",
+      "points": 2850,
+      "desc": "Solve 570 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_115",
+      "name": "Achievement 115",
+      "points": 2875,
+      "desc": "Solve 575 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_116",
+      "name": "Achievement 116",
+      "points": 2900,
+      "desc": "Solve 580 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_117",
+      "name": "Achievement 117",
+      "points": 2925,
+      "desc": "Solve 585 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_118",
+      "name": "Achievement 118",
+      "points": 2950,
+      "desc": "Solve 590 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_119",
+      "name": "Achievement 119",
+      "points": 2975,
+      "desc": "Solve 595 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_120",
+      "name": "Achievement 120",
+      "points": 3000,
+      "desc": "Solve 600 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_121",
+      "name": "Achievement 121",
+      "points": 3025,
+      "desc": "Solve 605 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_122",
+      "name": "Achievement 122",
+      "points": 3050,
+      "desc": "Solve 610 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_123",
+      "name": "Achievement 123",
+      "points": 3075,
+      "desc": "Solve 615 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_124",
+      "name": "Achievement 124",
+      "points": 3100,
+      "desc": "Solve 620 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_125",
+      "name": "Achievement 125",
+      "points": 3125,
+      "desc": "Solve 625 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_126",
+      "name": "Achievement 126",
+      "points": 3150,
+      "desc": "Solve 630 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_127",
+      "name": "Achievement 127",
+      "points": 3175,
+      "desc": "Solve 635 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_128",
+      "name": "Achievement 128",
+      "points": 3200,
+      "desc": "Solve 640 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_129",
+      "name": "Achievement 129",
+      "points": 3225,
+      "desc": "Solve 645 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_130",
+      "name": "Achievement 130",
+      "points": 3250,
+      "desc": "Solve 650 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_131",
+      "name": "Achievement 131",
+      "points": 3275,
+      "desc": "Solve 655 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_132",
+      "name": "Achievement 132",
+      "points": 3300,
+      "desc": "Solve 660 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_133",
+      "name": "Achievement 133",
+      "points": 3325,
+      "desc": "Solve 665 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_134",
+      "name": "Achievement 134",
+      "points": 3350,
+      "desc": "Solve 670 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_135",
+      "name": "Achievement 135",
+      "points": 3375,
+      "desc": "Solve 675 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_136",
+      "name": "Achievement 136",
+      "points": 3400,
+      "desc": "Solve 680 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_137",
+      "name": "Achievement 137",
+      "points": 3425,
+      "desc": "Solve 685 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_138",
+      "name": "Achievement 138",
+      "points": 3450,
+      "desc": "Solve 690 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_139",
+      "name": "Achievement 139",
+      "points": 3475,
+      "desc": "Solve 695 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_140",
+      "name": "Achievement 140",
+      "points": 3500,
+      "desc": "Solve 700 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_141",
+      "name": "Achievement 141",
+      "points": 3525,
+      "desc": "Solve 705 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_142",
+      "name": "Achievement 142",
+      "points": 3550,
+      "desc": "Solve 710 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_143",
+      "name": "Achievement 143",
+      "points": 3575,
+      "desc": "Solve 715 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_144",
+      "name": "Achievement 144",
+      "points": 3600,
+      "desc": "Solve 720 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_145",
+      "name": "Achievement 145",
+      "points": 3625,
+      "desc": "Solve 725 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_146",
+      "name": "Achievement 146",
+      "points": 3650,
+      "desc": "Solve 730 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_147",
+      "name": "Achievement 147",
+      "points": 3675,
+      "desc": "Solve 735 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_148",
+      "name": "Achievement 148",
+      "points": 3700,
+      "desc": "Solve 740 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_149",
+      "name": "Achievement 149",
+      "points": 3725,
+      "desc": "Solve 745 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_150",
+      "name": "Achievement 150",
+      "points": 3750,
+      "desc": "Solve 750 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_151",
+      "name": "Achievement 151",
+      "points": 3775,
+      "desc": "Solve 755 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_152",
+      "name": "Achievement 152",
+      "points": 3800,
+      "desc": "Solve 760 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_153",
+      "name": "Achievement 153",
+      "points": 3825,
+      "desc": "Solve 765 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_154",
+      "name": "Achievement 154",
+      "points": 3850,
+      "desc": "Solve 770 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_155",
+      "name": "Achievement 155",
+      "points": 3875,
+      "desc": "Solve 775 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_156",
+      "name": "Achievement 156",
+      "points": 3900,
+      "desc": "Solve 780 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_157",
+      "name": "Achievement 157",
+      "points": 3925,
+      "desc": "Solve 785 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_158",
+      "name": "Achievement 158",
+      "points": 3950,
+      "desc": "Solve 790 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_159",
+      "name": "Achievement 159",
+      "points": 3975,
+      "desc": "Solve 795 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_160",
+      "name": "Achievement 160",
+      "points": 4000,
+      "desc": "Solve 800 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_161",
+      "name": "Achievement 161",
+      "points": 4025,
+      "desc": "Solve 805 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_162",
+      "name": "Achievement 162",
+      "points": 4050,
+      "desc": "Solve 810 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_163",
+      "name": "Achievement 163",
+      "points": 4075,
+      "desc": "Solve 815 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_164",
+      "name": "Achievement 164",
+      "points": 4100,
+      "desc": "Solve 820 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_165",
+      "name": "Achievement 165",
+      "points": 4125,
+      "desc": "Solve 825 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_166",
+      "name": "Achievement 166",
+      "points": 4150,
+      "desc": "Solve 830 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_167",
+      "name": "Achievement 167",
+      "points": 4175,
+      "desc": "Solve 835 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_168",
+      "name": "Achievement 168",
+      "points": 4200,
+      "desc": "Solve 840 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_169",
+      "name": "Achievement 169",
+      "points": 4225,
+      "desc": "Solve 845 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_170",
+      "name": "Achievement 170",
+      "points": 4250,
+      "desc": "Solve 850 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_171",
+      "name": "Achievement 171",
+      "points": 4275,
+      "desc": "Solve 855 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_172",
+      "name": "Achievement 172",
+      "points": 4300,
+      "desc": "Solve 860 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_173",
+      "name": "Achievement 173",
+      "points": 4325,
+      "desc": "Solve 865 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_174",
+      "name": "Achievement 174",
+      "points": 4350,
+      "desc": "Solve 870 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_175",
+      "name": "Achievement 175",
+      "points": 4375,
+      "desc": "Solve 875 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_176",
+      "name": "Achievement 176",
+      "points": 4400,
+      "desc": "Solve 880 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_177",
+      "name": "Achievement 177",
+      "points": 4425,
+      "desc": "Solve 885 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_178",
+      "name": "Achievement 178",
+      "points": 4450,
+      "desc": "Solve 890 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_179",
+      "name": "Achievement 179",
+      "points": 4475,
+      "desc": "Solve 895 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_180",
+      "name": "Achievement 180",
+      "points": 4500,
+      "desc": "Solve 900 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_181",
+      "name": "Achievement 181",
+      "points": 4525,
+      "desc": "Solve 905 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_182",
+      "name": "Achievement 182",
+      "points": 4550,
+      "desc": "Solve 910 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_183",
+      "name": "Achievement 183",
+      "points": 4575,
+      "desc": "Solve 915 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_184",
+      "name": "Achievement 184",
+      "points": 4600,
+      "desc": "Solve 920 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_185",
+      "name": "Achievement 185",
+      "points": 4625,
+      "desc": "Solve 925 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_186",
+      "name": "Achievement 186",
+      "points": 4650,
+      "desc": "Solve 930 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_187",
+      "name": "Achievement 187",
+      "points": 4675,
+      "desc": "Solve 935 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_188",
+      "name": "Achievement 188",
+      "points": 4700,
+      "desc": "Solve 940 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_189",
+      "name": "Achievement 189",
+      "points": 4725,
+      "desc": "Solve 945 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_190",
+      "name": "Achievement 190",
+      "points": 4750,
+      "desc": "Solve 950 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_191",
+      "name": "Achievement 191",
+      "points": 4775,
+      "desc": "Solve 955 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_192",
+      "name": "Achievement 192",
+      "points": 4800,
+      "desc": "Solve 960 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_193",
+      "name": "Achievement 193",
+      "points": 4825,
+      "desc": "Solve 965 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_194",
+      "name": "Achievement 194",
+      "points": 4850,
+      "desc": "Solve 970 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_195",
+      "name": "Achievement 195",
+      "points": 4875,
+      "desc": "Solve 975 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    },
+    {
+      "id": "ach_196",
+      "name": "Achievement 196",
+      "points": 4900,
+      "desc": "Solve 980 words correctly to unlock this prestigious achievement",
+      "icon": "\u2b50"
+    },
+    {
+      "id": "ach_197",
+      "name": "Achievement 197",
+      "points": 4925,
+      "desc": "Solve 985 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udca5"
+    },
+    {
+      "id": "ach_198",
+      "name": "Achievement 198",
+      "points": 4950,
+      "desc": "Solve 990 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83d\udd25"
+    },
+    {
+      "id": "ach_199",
+      "name": "Achievement 199",
+      "points": 4975,
+      "desc": "Solve 995 words correctly to unlock this prestigious achievement",
+      "icon": "\u26a1"
+    },
+    {
+      "id": "ach_200",
+      "name": "Achievement 200",
+      "points": 5000,
+      "desc": "Solve 1000 words correctly to unlock this prestigious achievement",
+      "icon": "\ud83c\udfc6"
+    }
+  ],
+  "tips": [
+    "Tip 1: Shuffle is free and unlimited",
+    "Tip 2: Hints cost 10 coins per use",
+    "Tip 3: Build streaks for score multipliers",
+    "Tip 4: Blast tiles double your word score",
+    "Tip 5: Freeze stops Blitz timer for 5s",
+    "Tip 6: 3 stars = no hints + fast solve",
+    "Tip 7: Chain: last letter starts next word",
+    "Tip 8: 100 words per Classic session",
+    "Tip 9: Coins from level completions",
+    "Tip 10: Longer words = higher base score",
+    "Tip 11: Shuffle is free and unlimited",
+    "Tip 12: Hints cost 10 coins per use",
+    "Tip 13: Build streaks for score multipliers",
+    "Tip 14: Blast tiles double your word score",
+    "Tip 15: Freeze stops Blitz timer for 5s",
+    "Tip 16: 3 stars = no hints + fast solve",
+    "Tip 17: Chain: last letter starts next word",
+    "Tip 18: 100 words per Classic session",
+    "Tip 19: Coins from level completions",
+    "Tip 20: Longer words = higher base score",
+    "Tip 21: Shuffle is free and unlimited",
+    "Tip 22: Hints cost 10 coins per use",
+    "Tip 23: Build streaks for score multipliers",
+    "Tip 24: Blast tiles double your word score",
+    "Tip 25: Freeze stops Blitz timer for 5s",
+    "Tip 26: 3 stars = no hints + fast solve",
+    "Tip 27: Chain: last letter starts next word",
+    "Tip 28: 100 words per Classic session",
+    "Tip 29: Coins from level completions",
+    "Tip 30: Longer words = higher base score",
+    "Tip 31: Shuffle is free and unlimited",
+    "Tip 32: Hints cost 10 coins per use",
+    "Tip 33: Build streaks for score multipliers",
+    "Tip 34: Blast tiles double your word score",
+    "Tip 35: Freeze stops Blitz timer for 5s",
+    "Tip 36: 3 stars = no hints + fast solve",
+    "Tip 37: Chain: last letter starts next word",
+    "Tip 38: 100 words per Classic session",
+    "Tip 39: Coins from level completions",
+    "Tip 40: Longer words = higher base score",
+    "Tip 41: Shuffle is free and unlimited",
+    "Tip 42: Hints cost 10 coins per use",
+    "Tip 43: Build streaks for score multipliers",
+    "Tip 44: Blast tiles double your word score",
+    "Tip 45: Freeze stops Blitz timer for 5s",
+    "Tip 46: 3 stars = no hints + fast solve",
+    "Tip 47: Chain: last letter starts next word",
+    "Tip 48: 100 words per Classic session",
+    "Tip 49: Coins from level completions",
+    "Tip 50: Longer words = higher base score",
+    "Tip 51: Shuffle is free and unlimited",
+    "Tip 52: Hints cost 10 coins per use",
+    "Tip 53: Build streaks for score multipliers",
+    "Tip 54: Blast tiles double your word score",
+    "Tip 55: Freeze stops Blitz timer for 5s",
+    "Tip 56: 3 stars = no hints + fast solve",
+    "Tip 57: Chain: last letter starts next word",
+    "Tip 58: 100 words per Classic session",
+    "Tip 59: Coins from level completions",
+    "Tip 60: Longer words = higher base score",
+    "Tip 61: Shuffle is free and unlimited",
+    "Tip 62: Hints cost 10 coins per use",
+    "Tip 63: Build streaks for score multipliers",
+    "Tip 64: Blast tiles double your word score",
+    "Tip 65: Freeze stops Blitz timer for 5s",
+    "Tip 66: 3 stars = no hints + fast solve",
+    "Tip 67: Chain: last letter starts next word",
+    "Tip 68: 100 words per Classic session",
+    "Tip 69: Coins from level completions",
+    "Tip 70: Longer words = higher base score",
+    "Tip 71: Shuffle is free and unlimited",
+    "Tip 72: Hints cost 10 coins per use",
+    "Tip 73: Build streaks for score multipliers",
+    "Tip 74: Blast tiles double your word score",
+    "Tip 75: Freeze stops Blitz timer for 5s",
+    "Tip 76: 3 stars = no hints + fast solve",
+    "Tip 77: Chain: last letter starts next word",
+    "Tip 78: 100 words per Classic session",
+    "Tip 79: Coins from level completions",
+    "Tip 80: Longer words = higher base score",
+    "Tip 81: Shuffle is free and unlimited",
+    "Tip 82: Hints cost 10 coins per use",
+    "Tip 83: Build streaks for score multipliers",
+    "Tip 84: Blast tiles double your word score",
+    "Tip 85: Freeze stops Blitz timer for 5s",
+    "Tip 86: 3 stars = no hints + fast solve",
+    "Tip 87: Chain: last letter starts next word",
+    "Tip 88: 100 words per Classic session",
+    "Tip 89: Coins from level completions",
+    "Tip 90: Longer words = higher base score",
+    "Tip 91: Shuffle is free and unlimited",
+    "Tip 92: Hints cost 10 coins per use",
+    "Tip 93: Build streaks for score multipliers",
+    "Tip 94: Blast tiles double your word score",
+    "Tip 95: Freeze stops Blitz timer for 5s",
+    "Tip 96: 3 stars = no hints + fast solve",
+    "Tip 97: Chain: last letter starts next word",
+    "Tip 98: 100 words per Classic session",
+    "Tip 99: Coins from level completions",
+    "Tip 100: Longer words = higher base score",
+    "Tip 101: Shuffle is free and unlimited",
+    "Tip 102: Hints cost 10 coins per use",
+    "Tip 103: Build streaks for score multipliers",
+    "Tip 104: Blast tiles double your word score",
+    "Tip 105: Freeze stops Blitz timer for 5s",
+    "Tip 106: 3 stars = no hints + fast solve",
+    "Tip 107: Chain: last letter starts next word",
+    "Tip 108: 100 words per Classic session",
+    "Tip 109: Coins from level completions",
+    "Tip 110: Longer words = higher base score",
+    "Tip 111: Shuffle is free and unlimited",
+    "Tip 112: Hints cost 10 coins per use",
+    "Tip 113: Build streaks for score multipliers",
+    "Tip 114: Blast tiles double your word score",
+    "Tip 115: Freeze stops Blitz timer for 5s",
+    "Tip 116: 3 stars = no hints + fast solve",
+    "Tip 117: Chain: last letter starts next word",
+    "Tip 118: 100 words per Classic session",
+    "Tip 119: Coins from level completions",
+    "Tip 120: Longer words = higher base score",
+    "Tip 121: Shuffle is free and unlimited",
+    "Tip 122: Hints cost 10 coins per use",
+    "Tip 123: Build streaks for score multipliers",
+    "Tip 124: Blast tiles double your word score",
+    "Tip 125: Freeze stops Blitz timer for 5s",
+    "Tip 126: 3 stars = no hints + fast solve",
+    "Tip 127: Chain: last letter starts next word",
+    "Tip 128: 100 words per Classic session",
+    "Tip 129: Coins from level completions",
+    "Tip 130: Longer words = higher base score",
+    "Tip 131: Shuffle is free and unlimited",
+    "Tip 132: Hints cost 10 coins per use",
+    "Tip 133: Build streaks for score multipliers",
+    "Tip 134: Blast tiles double your word score",
+    "Tip 135: Freeze stops Blitz timer for 5s",
+    "Tip 136: 3 stars = no hints + fast solve",
+    "Tip 137: Chain: last letter starts next word",
+    "Tip 138: 100 words per Classic session",
+    "Tip 139: Coins from level completions",
+    "Tip 140: Longer words = higher base score",
+    "Tip 141: Shuffle is free and unlimited",
+    "Tip 142: Hints cost 10 coins per use",
+    "Tip 143: Build streaks for score multipliers",
+    "Tip 144: Blast tiles double your word score",
+    "Tip 145: Freeze stops Blitz timer for 5s",
+    "Tip 146: 3 stars = no hints + fast solve",
+    "Tip 147: Chain: last letter starts next word",
+    "Tip 148: 100 words per Classic session",
+    "Tip 149: Coins from level completions",
+    "Tip 150: Longer words = higher base score",
+    "Tip 151: Shuffle is free and unlimited",
+    "Tip 152: Hints cost 10 coins per use",
+    "Tip 153: Build streaks for score multipliers",
+    "Tip 154: Blast tiles double your word score",
+    "Tip 155: Freeze stops Blitz timer for 5s",
+    "Tip 156: 3 stars = no hints + fast solve",
+    "Tip 157: Chain: last letter starts next word",
+    "Tip 158: 100 words per Classic session",
+    "Tip 159: Coins from level completions",
+    "Tip 160: Longer words = higher base score",
+    "Tip 161: Shuffle is free and unlimited",
+    "Tip 162: Hints cost 10 coins per use",
+    "Tip 163: Build streaks for score multipliers",
+    "Tip 164: Blast tiles double your word score",
+    "Tip 165: Freeze stops Blitz timer for 5s",
+    "Tip 166: 3 stars = no hints + fast solve",
+    "Tip 167: Chain: last letter starts next word",
+    "Tip 168: 100 words per Classic session",
+    "Tip 169: Coins from level completions",
+    "Tip 170: Longer words = higher base score",
+    "Tip 171: Shuffle is free and unlimited",
+    "Tip 172: Hints cost 10 coins per use",
+    "Tip 173: Build streaks for score multipliers",
+    "Tip 174: Blast tiles double your word score",
+    "Tip 175: Freeze stops Blitz timer for 5s",
+    "Tip 176: 3 stars = no hints + fast solve",
+    "Tip 177: Chain: last letter starts next word",
+    "Tip 178: 100 words per Classic session",
+    "Tip 179: Coins from level completions",
+    "Tip 180: Longer words = higher base score",
+    "Tip 181: Shuffle is free and unlimited",
+    "Tip 182: Hints cost 10 coins per use",
+    "Tip 183: Build streaks for score multipliers",
+    "Tip 184: Blast tiles double your word score",
+    "Tip 185: Freeze stops Blitz timer for 5s",
+    "Tip 186: 3 stars = no hints + fast solve",
+    "Tip 187: Chain: last letter starts next word",
+    "Tip 188: 100 words per Classic session",
+    "Tip 189: Coins from level completions",
+    "Tip 190: Longer words = higher base score",
+    "Tip 191: Shuffle is free and unlimited",
+    "Tip 192: Hints cost 10 coins per use",
+    "Tip 193: Build streaks for score multipliers",
+    "Tip 194: Blast tiles double your word score",
+    "Tip 195: Freeze stops Blitz timer for 5s",
+    "Tip 196: 3 stars = no hints + fast solve",
+    "Tip 197: Chain: last letter starts next word",
+    "Tip 198: 100 words per Classic session",
+    "Tip 199: Coins from level completions",
+    "Tip 200: Longer words = higher base score"
+  ]
+}

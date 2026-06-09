@@ -1,0 +1,87 @@
+# SCRAMBLOX — GOOGLE PLAY STORE LISTING
+# Bundle: com.hillaryino.scramblox
+#═══════════════════════════════════════════
+
+APP TITLE (50 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Scramblox: Word Scramble Puzzle Game
+
+SHORT DESCRIPTION (80 chars max)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Stack letters, unscramble words — addictive word puzzle fun for everyone!
+
+LONG DESCRIPTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🟧 Scramblox — The Word Puzzle That Stacks Up!
+
+Scramblox takes word scrambling to the next level. With a bold neon style, explosive gameplay, and 3 modes to master, this is the word game you never knew you needed.
+
+─────────────────────────────────────
+🎮 THREE MODES
+─────────────────────────────────────
+
+🧩 CLASSIC — Pick any of 21 categories and unscramble 100 randomly shuffled words per session. Stars and coins for every solve.
+
+⛓ CHAIN — Each solved word must begin with the last letter of the previous one. Miss and lose a life. 3 lives per round.
+
+⚡ BLITZ — 60 seconds of pure word chaos. Combo streaks, freeze power-ups, and personal high scores.
+
+─────────────────────────────────────
+✅ FEATURES
+─────────────────────────────────────
+• 3,000+ words across 21 diverse categories
+• Bold neon dark theme — gorgeous on any screen
+• Blast tiles that double your score
+• Streak combos with multipliers
+• Hint and Shuffle power-ups
+• Coin economy earned through gameplay
+• 100% offline — no internet required
+• Completely free — no ads, no paywalls
+
+─────────────────────────────────────
+📚 21 CATEGORIES
+─────────────────────────────────────
+Animals · Food · Sports · Science · Countries · Nature · Technology
+Emotions · Music · Travel · Movies · Mythology · Space · History
+Cooking · Fashion · Art · Body · Weather · Equipment · Professions
+
+Download Scramblox and light up your vocabulary. 🟧
+
+CATEGORY: Games > Word
+CONTENT RATING: Everyone (E) · IARC 3+
+PRICING: Free · No IAPs · No Ads
+
+CONTACT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Email: support@scramblox.app
+Privacy URL: https://scramblox.app/privacy
+
+WHAT'S NEW (v1.0)
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🎉 Welcome to Scramblox v1.0!
+• 3 modes: Classic, Chain & Blitz
+• 3,000+ words · 21 categories
+• Blast tiles, combos & coin system
+• Hint & Shuffle power-ups
+• Fully offline · No ads · 100% free
+Rate us if you enjoy it ⭐⭐⭐⭐⭐
+
+DATA SAFETY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Data collected: None
+Data shared: None
+Local storage only · Families Policy: YES
+
+PERMISSIONS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+INTERNET — Flutter compatibility only
+VIBRATE  — Haptic feedback
+
+ASSETS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ icon.png          — 512×512 (assets/images/)
+✅ feature_image.png — 1024×500 (assets/images/)
+✅ privacy_policy.html — host and paste URL
+☐  Screenshots       — Min 2 required
+
+BUNDLE: com.scramblox.words · v1.0.0+1 · minSDK 21
